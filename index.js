@@ -1,4 +1,4 @@
-//Assignment 2 : Filesystem ased todo list
+//Assignment 2 : Filesystem todo list
 // Create a cli that lets user 
 //1. Add a todo
 //2. Delete a todo
