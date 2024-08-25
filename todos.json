@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "item": "Build a website",
+    "schedule": "21:00",
+    "done": false
+  },
+  {
+    "id": 1,
+    "item": "Complete assignment",
+    "schedule": "21:00",
+    "done": true
+  }
+]
